@@ -21,6 +21,7 @@
     <h2>
         {{ input }}
     </h2>
+    <button>He did it</button>
 </template>
 
 <style scoped></style>
